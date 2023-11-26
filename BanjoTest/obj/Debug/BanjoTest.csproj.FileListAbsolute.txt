@@ -1,0 +1,8 @@
+C:\GitHub\BanjoTest\bin\Debug\BanjoTest.exe.config
+C:\GitHub\BanjoTest\bin\Debug\BanjoTest.exe
+C:\GitHub\BanjoTest\bin\Debug\BanjoTest.pdb
+C:\GitHub\BanjoTest\obj\Debug\BanjoTest.csproj.AssemblyReference.cache
+C:\GitHub\BanjoTest\obj\Debug\BanjoTest.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\BanjoTest\obj\Debug\BanjoTest.csproj.CoreCompileInputs.cache
+C:\GitHub\BanjoTest\obj\Debug\BanjoTest.exe
+C:\GitHub\BanjoTest\obj\Debug\BanjoTest.pdb

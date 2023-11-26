@@ -1,0 +1,8 @@
+C:\GitRepo\OmenTestProject\bin\Debug\OmenTestProject.exe.config
+C:\GitRepo\OmenTestProject\bin\Debug\OmenTestProject.exe
+C:\GitRepo\OmenTestProject\bin\Debug\OmenTestProject.pdb
+C:\GitRepo\OmenTestProject\obj\Debug\OmenTestProject.csproj.AssemblyReference.cache
+C:\GitRepo\OmenTestProject\obj\Debug\OmenTestProject.csproj.SuggestedBindingRedirects.cache
+C:\GitRepo\OmenTestProject\obj\Debug\OmenTestProject.csproj.CoreCompileInputs.cache
+C:\GitRepo\OmenTestProject\obj\Debug\OmenTestProject.exe
+C:\GitRepo\OmenTestProject\obj\Debug\OmenTestProject.pdb
